@@ -1,0 +1,18 @@
+Title:Main - [ testo ] for TJ3 C-Style [ Ver.20110618 ]
+CN01:Ball
+CN02:Line
+CN03:L-Touch
+CN04:R-Touch
+CN05:C-Touch
+CN06:
+CN07:
+CN08:
+CN09:RED3
+CN10:RED2
+[0001]:sno:04,cno:01,val:000000-000000-000000,cmt:
+[0002]:sno:01,cno:14,val:000080-000000-000000,cmt:
+[0003]:sno:38,cno:38,val:100100-000000-000000,cmt:
+[0004]:sno:03,cno:00,val:000000-000000-000000,cmt:
+[0005]:sno:38,cno:38,val:000000-000000-000000,cmt:
+[0006]:sno:00,cno:02,val:000000-000000-000000,cmt:
+[0007]:sno:00,cno:03,val:000000-000000-000000,cmt:
